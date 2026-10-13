@@ -73,4 +73,14 @@ CONCLUSION:
 
 The Dynamic Programming approach provides an efficient solution to the Making Change Problem. It finds the minimum number of coins required to form the target amount and works well when there are many possible combinations of coins. The time complexity is O(n × A), where n is the number of coin denominations and A is the target amount. The space complexity is O(A).
 
+pract-DAA-8
+Summary
+
+The program implements graph traversal using Depth First Search (DFS) and Breadth First Search (BFS). DFS explores a graph deeply before backtracking, while BFS explores the graph level by level. DFS uses recursion or a stack, whereas BFS uses a queue.
+
+Conclusion
+
+DFS and BFS are efficient graph-searching techniques. DFS is useful for deep exploration and path-related problems, while BFS is useful for level-wise traversal and finding the shortest path in an unweighted graph. Both algorithms have a time complexity of O(V + E).
+
+
 
